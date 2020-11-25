@@ -1,0 +1,7 @@
+{
+  "defaultDeploymentType": "SINGLE_VM",
+  "imageName": "sftp2019v2-04062020",
+  "projectId": "cloud-infra-services-public",
+  "templateName": "nonexistent_template",
+  "useSolutionPackage": true
+}
